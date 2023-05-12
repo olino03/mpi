@@ -1,0 +1,111 @@
+Bubble Sort    - 7600  +- 200 nanoseconds on 100000 * 10 runs
+Selection Sort - 7600  +- 200 nanoseconds on 100000 * 10 runs
+Insertion Sort - 7500  +- 80  nanoseconds on 100000 * 10 runs
+Quick Sort     - 8000  +- 100 nanoseconds on 100000 * 10 runs
+Merge Sort     - 12000 +- 500 nanoseconds on 100000 * 10 runs
+Radix Sort     - 11000 +- 500 nanoseconds on 100000 * 10 runs
+Shell Sort     - 7600  +- 200 nanoseconds on 100000 * 10 runs
+=============================================================
+Bubble Sort    - 60000 +- 2000 nanoseconds on 10000 * 100 runs
+Selection Sort - 42000 +- 1500 nanoseconds on 10000 * 100 runs
+Insertion Sort - 42000 +- 1000 nanoseconds on 10000 * 100 runs
+Quick Sort     - 21000 +- 1000 nanoseconds on 10000 * 100 runs
+Merge Sort     - 21000 +- 1000 nanoseconds on 10000 * 100 runs
+Radix Sort     - 30000 +- 2000 nanoseconds on 10000 * 100 runs
+Shell Sort     - 15000 +- 1000 nanoseconds on 10000 * 100 runs
+=============================================================
+Bubble Sort    - 4600000 +- 100000 nanoseconds on 1000 * 1000 runs
+Selection Sort - 2000000 +- 100000 nanoseconds on 1000 * 1000 runs
+Insertion Sort - 1200000 +- 10000  nanoseconds on 1000 * 1000 runs
+Quick Sort     - 200000  +- 10000  nanoseconds on 1000 * 1000 runs
+Merge Sort     - 550000  +- 10000  nanoseconds on 1000 * 1000 runs
+Radix Sort     - 150000  +- 10000  nanoseconds on 1000 * 1000 runs
+Shell Sort     - 170000  +- 10000  nanoseconds on 1000 * 1000 runs
+=============================================================
+Bubble Sort    - 510000000 +- 10000000 nanoseconds on 10 * 10000 runs
+Selection Sort - 200000000 +- 10000000 nanoseconds on 10 * 10000 runs
+Insertion Sort - 120000000 +- 5000000  nanoseconds on 10 * 10000 runs
+Quick Sort     - 3000000   +- 200000   nanoseconds on 1000 * 10000 runs
+Merge Sort     - 5500000   +- 20000    nanoseconds on 1000 * 10000 runs
+Radix Sort     - 1500000   +- 100000   nanoseconds on 1000 * 10000 runs
+Shell Sort     - 3000000   +- 100000   nanoseconds on 1000 * 10000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 33000000  +- 1000000 nanoseconds on 1000 * 100000 runs
+Merge Sort     - 63000000  +- 1000000 nanoseconds on 1000 * 100000 runs
+Radix Sort     - 17000000  +- 1000000 nanoseconds on 1000 * 100000 runs
+Shell Sort     - 40000000  +- 1000000 nanoseconds on 1000 * 100000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 400000000 +- 20000000 nanoseconds on 100 * 1000000 runs
+Merge Sort     - 600000000 +- 20000000 nanoseconds on 100 * 1000000 runs
+Radix Sort     - 200000000 +- 10000000 nanoseconds on 100 * 1000000 runs
+Shell Sort     - 550000000 +- 10000000 nanoseconds on 100 * 1000000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 8500000000 +- 100000000 nanoseconds on 10 * 10.000.000 runs
+Merge Sort     - 7000000000 +- 100000000 nanoseconds on 10 * 10.000.000 runs
+Radix Sort     - 3900000000 +- 100000000 nanoseconds on 10 * 10.000.000 runs
+Shell Sort     - 8200000000 +- 100000000 nanoseconds on 10 * 10.000.000 runs
+============================================================= -03
+Bubble Sort    - 5000 +- 100 nanoseconds on 100000 * 10 runs
+Selection Sort - 5000 +- 200 nanoseconds on 100000 * 10 runs
+Insertion Sort - 5000 +- 100 nanoseconds on 100000 * 10 runs
+Quick Sort     - 5000 +- 100 nanoseconds on 100000 * 10 runs
+Merge Sort     - 9000 +- 300 nanoseconds on 100000 * 10 runs
+Radix Sort     - 7500 +- 200 nanoseconds on 100000 * 10 runs
+Shell Sort     - 5000 +- 100 nanoseconds on 100000 * 10 runs
+=============================================================
+Bubble Sort    - 28000 +- 1000 nanoseconds on 10000 * 100 runs
+Selection Sort - 12000 +- 500  nanoseconds on 10000 * 100 runs
+Insertion Sort - 8800  +- 500  nanoseconds on 10000 * 100 runs
+Quick Sort     - 7000  +- 300  nanoseconds on 10000 * 100 runs
+Merge Sort     - 37000 +- 2000 nanoseconds on 10000 * 100 runs
+Radix Sort     - 13000 +- 300  nanoseconds on 10000 * 100 runs
+Shell Sort     - 7700  +- 200  nanoseconds on 10000 * 100 runs
+=============================================================
+Bubble Sort    - 2300000 +- 100000 nanoseconds on 1000 * 1000 runs
+Selection Sort - 400000  +- 10000  nanoseconds on 1000 * 1000 runs
+Insertion Sort - 180000  +- 5000   nanoseconds on 1000 * 1000 runs
+Quick Sort     - 40000   +- 1000   nanoseconds on 1000 * 1000 runs
+Merge Sort     - 3000000 +- 100000 nanoseconds on 1000 * 1000 runs
+Radix Sort     - 130000  +- 5000   nanoseconds on 1000 * 1000 runs
+Shell Sort     - 54000   +- 2000   nanoseconds on 1000 * 1000 runs
+=============================================================
+Bubble Sort    - 250000000 +- 10000000 nanoseconds on 10 * 10000 runs
+Selection Sort - 33000000  +- 1000000  nanoseconds on 10 * 10000 runs
+Insertion Sort - 12000000  +- 500000   nanoseconds on 10 * 10000 runs
+Quick Sort     - 780000    +- 20000    nanoseconds on 1000 * 10000 runs
+Merge Sort     - 3000000   +- 200000   nanoseconds on 1000 * 10000 runs
+Radix Sort     - 600000    +- 30000    nanoseconds on 1000 * 10000 runs
+Shell Sort     - 1000000   +- 50000    nanoseconds on 1000 * 10000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 7200000   +- 200000  nanoseconds on 1000 * 100000 runs
+Merge Sort     - 32000000  +- 1000000 nanoseconds on 1000 * 100000 runs
+Radix Sort     - 5500000   +- 200000  nanoseconds on 1000 * 100000 runs
+Shell Sort     - 12000000  +- 500000  nanoseconds on 1000 * 100000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 80000000  +- 5000000  nanoseconds on 100 * 1.000.000 runs
+Merge Sort     - 280000000 +- 20000000 nanoseconds on 100 * 1.000.000 runs
+Radix Sort     - 90000000  +- 5000000  nanoseconds on 100 * 1.000.000 runs
+Shell Sort     - 130000000 +- 5000000  nanoseconds on 100 * 1.000.000 runs
+=============================================================
+Bubble Sort    - no longer viable
+Selection Sort - no longer viable
+Insertion Sort - no longer viable
+Quick Sort     - 1800000000 +- 50000000  nanoseconds on 10 * 10.000.000 runs
+Merge Sort     - 3000000000 +- 100000000 nanoseconds on 10 * 10.000.000 runs
+Radix Sort     - 950000000  +- 20000000  nanoseconds on 10 * 10.000.000 runs
+Shell Sort     - 1700000000 +- 50000000  nanoseconds on 10 * 10.000.000 runs
